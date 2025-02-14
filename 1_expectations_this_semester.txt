@@ -1,0 +1,35 @@
+Assignment #1: Expectations for this Semester
+
+Instructions:
+1. Introduction (100-150 words)
+Tell me a little about yourself. What programming languages or technologies do you know? Do you have any experience with backend development or Node.js?
+Answer:
+	My name is Mark Joseph B. Santos, and I’m from Hagonoy, Bulacan. I really enjoy playing basketball and any kind of physical activity. When it comes to programming, I know a few languages like CSS, SQL, PHP, Python, and JavaScript. Right now, I don’t have much experience with backend development or using Node.js, but I’m excited to learn more about it in the future. I’m always looking for new challenges and ways to improve my skills.
+
+2. Course Expectations (200-300 words)
+What do you want to achieve in this course?
+What specific skills do you hope to learn (e.g., building APIs, using Node.js and Express)?
+How do you think backend development will help you in your career or studies?
+Answer:
+	In this course, I hope to gain a deeper understanding of backend development and how to build robust, scalable web applications. I’m excited to learn how to create and manage APIs, which will allow me to connect different parts of a web application and enable communication between the frontend and backend. I also want to dive into using Node.js and Express to build efficient server-side applications. I believe learning these technologies will help me become a more well-rounded developer.
+	One specific skill I am eager to master is how to work with databases, such as integrating SQL or NoSQL databases with backend systems. This will allow me to store, retrieve, and manipulate data more effectively in my projects. I also want to explore authentication and security best practices, as these are crucial for creating safe, user-friendly applications.
+	I believe that learning backend development will be extremely valuable for my future career. It will not only improve my technical skills but also give me a better understanding of how web applications work from both the front end and the back end. Having these skills will allow me to build full-stack applications, making me more versatile as a developer. Additionally, it will open up more job opportunities in the tech field, where backend knowledge is highly sought after. In my studies, I believe this course will give me a solid foundation that I can build upon in future projects and challenges.
+
+3. Challenges and Areas for Improvement (150-200 words)
+Are there any topics that you find difficult or want to improve on (e.g., working with databases, building APIs, error handling)?
+How do you plan to overcome these challenges during the course?
+Answer:
+	Since I don't have much experience with backend development, I find many topics challenging, especially working with databases and building APIs. I’m not yet familiar with how to connect databases to backend systems or perform efficient data operations. Error handling is another area where I need improvement, as it’s important for keeping applications running smoothly and avoiding crashes. These are the areas I’m most eager to learn about in this course.
+	To overcome these challenges, I plan to focus on hands-on practice. By building simple projects, I hope to gain a better understanding of how backend systems function, especially in terms of database integration and API development. I’ll also use online tutorials, forums, and documentation to reinforce my learning and troubleshoot any issues I encounter. Seeking help from my instructor and peers will also be important, as it will allow me to clarify any concepts that I find difficult. With consistent practice and the right resources, I’m confident that I can improve these skills and become more comfortable with backend development.
+
+4. Expectations from the Instructor (100-150 words)
+What do you expect from me as your instructor to help you succeed in this course?
+Are there any resources, teaching methods, or tools that would help you learn better (e.g., coding examples, tutorials, additional resources)?
+Answer:
+	In this course, I hope you can provide clear explanations of complex topics, especially since I’m new to backend development. It would be helpful if you could break down concepts into smaller steps and provide real-world examples so I can see how everything connects in Gods help. I would appreciate coding examples and hands-on exercises to help me apply what I’ve learned and reinforce my understanding.
+	Additionally, access to additional resources, like tutorials or readings, would be valuable, especially for topics I may find challenging. Overall, I expect you to be available to answer questions and guide me through any difficulties I encounter, helping me build confidence in backend development.
+
+5. Final Thoughts (Optional, 50-100 words)
+Anything else you'd like to add about your goals for the course or how you want to learn?
+Answer:
+	I’m excited to learn backend development and build a strong foundation in this course. My main goal is to become more confident with the technologies we’ll explore, like databases and APIs. I hope to learn through hands-on projects and practice, as I believe that’s the best way for me to grasp new concepts. I’m looking forward to growing my skills and becoming a more well-rounded developer by the end of the course.
