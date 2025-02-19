@@ -7,4 +7,4 @@ fs.readFile("./reflection.txt", "utf8", (err, data) => {
   console.log("File content: ", data);
 });
 
-console.log("Done reading the file");
+console.log("Done reading the files");
